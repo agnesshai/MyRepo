@@ -9,3 +9,4 @@ day3:
 6-> redbus
 12->snapdeal - done using frame
 
+selenium tasks 7/3/22
