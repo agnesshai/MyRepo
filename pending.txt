@@ -1,0 +1,11 @@
+pending tasks
+----------------
+
+day2: qn-5 -> hdfc
+done using frame..not sent to sir
+
+day3:
+4-> automationqa - 404
+6-> redbus
+12->snapdeal - done using frame
+
